@@ -1,3 +1,4 @@
+{-
 main :: IO ()
   {- main 
      RETURNS: ... 
@@ -34,3 +35,4 @@ function :: ... -> ...
      RETURNS: ...
    -}
 function = undefined 
+-}
