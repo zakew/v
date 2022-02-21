@@ -1,4 +1,4 @@
-import System.IO
+import System.IO ()
 import qualified Distribution.SPDX as PutStrLn
 
 main :: IO ()
